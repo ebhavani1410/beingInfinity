@@ -12,10 +12,23 @@ h1 {
     padding: 10px;
 }
 
-#home-intro :hover {
-    background-color: rgb(130, 71, 71);
+#cntr :hover {
+    background-color: rgb(65, 57, 57);
 }
 
 #p2 {
     color: blue;
+}
+
+#nav {
+    text-align: center;
+    background-color: saddlebrown;
+    height : 25px;
+    padding-top: 5px;
+}
+
+#nav a {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
 }
